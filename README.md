@@ -1,1 +1,103 @@
 # WebpageDevelopment-Assignment
+
+##
+
+```
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>Eshaan Shah's Project Report with HTML</title>
+  
+  <link rel="stylesheet" href="a8.css">
+
+  <style></style>
+
+</head>
+
+<!-- Content of the document goes here -->
+<body>
+
+  <h1>Project Report with HTML</h1>
+  <p><i>Eshaan Shah</i></p>
+  <hr>
+
+  <b>Table of Contents:</b>
+  <ol>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#literature-review">Literature Review</a></li>
+    <li><a href="#contribution">Contribution</a></li>
+    <li><a href="#methodological-design">Methodological Design</a></li>
+    <ul>
+      <li><a href="#procedures">Procedures</a></li>
+      <li><a href="#implementations">Implementations</a></li>
+      <ul>
+        <li><a href="#algorithm-1">Algorithm 1</a></li>
+        <li><a href="#algorithm-2">Algorithm 2</a></li>
+      </ul>
+    </ul>
+    <li><a href="#experimental-results-and-discussions">Experimental Results and Discussions</a></li>
+    <li><a href="#conclusions-and-future-work">Conclusions and Future Work</a></li>
+    <li><a href="#bibliography">Bibliography</a></li>
+  </ol>
+
+  <h1 id = "introduction"> Introduction </h1>
+    Maecenas imperdiet accumsan eros eget ornare. Etiam imperdiet magna venenatis pharetra vulputate. Nunc et ex sit amet ex dictum varius in vel massa. Maecenas diam mauris, maximus eget gravida ac, feugiat sed nisi. Mauris semper dui et faucibus lobortis. Praesent vestibulum justo et tellus fermentum, tincidunt dignissim mauris viverra. Donec aliquet ultrices quam, non tempus lacus iaculis ut. Proin purus arcu, pretium sit amet rutrum accumsan, volutpat lobortis tortor. Morbi accumsan imperdiet tortor eget fermentum. Suspendisse potenti. Sed dui tortor, congue eu commodo eget, fringilla in lacus. Vivamus nulla quam, dapibus a quam a, ultrices ornare neque. Mauris dictum, mauris mollis elementum molestie, lacus lacus lobortis eros, sed gravida erat tortor id eros. Morbi nec risus a odio pretium varius sit amet a dolor.
+  
+  <h1 id = "literature review"> Literature Review </h1>
+    Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc vehicula neque lacinia leo tincidunt consectetur a quis sem. Vestibulum magna lorem, porta vitae eros vel, porta gravida odio. Sed orci metus, fringilla nec lobortis ac, faucibus ac ante. Nulla tempus ornare odio, eu rhoncus augue pretium vel. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque faucibus pharetra ullamcorper. Etiam eget sapien vehicula, fringilla felis in, accumsan arcu. Praesent venenatis, lacus quis viverra sagittis, ipsum velit iaculis quam, sit amet pulvinar lorem nunc non felis. Mauris libero justo, congue et egestas et, placerat id nulla. Fusce tincidunt augue in velit ultricies vestibulum. Pellentesque tempus, enim nec rhoncus sodales, eros mauris ultricies nisl, sed vestibulum ipsum urna mattis arcu. Sed feugiat convallis mauris porttitor vestibulum. Previous work (<a href="#bibliography">Hazel, 2019</a>) showed the result.
+    <br>Nulla accumsan nisi dui, quis egestas elit semper non. Morbi malesuada nisi in mauris lobortis, in maximus tortor rutrum. Integer quam sem, pulvinar ac sodales vel, sollicitudin sit amet justo. Cras non purus id leo facilisis ornare. Nullam eu maximus augue. Pellentesque volutpat, ipsum eget finibus auctor, libero diam iaculis nunc, tincidunt lobortis enim lacus quis nisi. Quisque mollis lacus ut libero hendrerit finibus. Sed laoreet eros in vestibulum venenatis. Morbi pretium molestie magna nec ultrices. Nunc ut porttitor tellus. Ut vel ante nec massa molestie luctus quis a magna. Cras nec ante velit. Ut ultrices, sem pulvinar tempor feugiat, dui purus accumsan nibh, non fermentum ipsum velit semper elit. In ut consectetur quam. Previous work (<a href="#bibliography">Armstrong, 2021</a>) showed this result.</br>
+    
+  <h1 id = "contribution"> Contribution </h1>
+    Fusce sodales posuere metus et semper. Integer sed feugiat felis, quis tincidunt elit. Donec consectetur augue risus, sit amet hendrerit nisi iaculis quis. Duis malesuada fringilla nisl, non accumsan orci luctus semper. Quisque suscipit, ex sit amet commodo mollis, ex arcu molestie libero, at bibendum sem eros in quam. Vestibulum hendrerit lobortis est, eu tincidunt lectus eleifend a. Vivamus a efficitur elit, a porttitor dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ac metus lacinia metus vehicula volutpat quis a justo. Pellentesque efficitur dolor ex, a sagittis nisi pellentesque at.
+    <br>Experimental results are given in the <a href="#experimental-results-and-discussions">Results and Discussion</a> section. Textbook can be found in the <a href="#https://bookstore.yorku.ca">bookstore</a> on campus.</br>
+    
+  <h1 id = "methodical design"> Methodical Design </h1>
+    Proin in auctor tellus, a luctus velit. Etiam vel rhoncus dolor, nec faucibus erat. In hac habitasse platea dictumst. Vestibulum mollis eleifend nisi non pulvinar. Maecenas velit ante, mollis eget viverra et, accumsan a neque. Etiam vestibulum semper iaculis. Nullam dignissim purus ex, at pellentesque mauris molestie id.
+    <br>Maecenas eleifend ac diam non blandit. Suspendisse feugiat nulla quis dui varius, id porta nibh luctus. Suspendisse eu ipsum eros. Duis dignissim elit erat, ut vestibulum nunc vehicula sit amet. Integer vitae odio a risus viverra tristique. Aliquam sagittis nibh sed leo accumsan sagittis. Aliquam eleifend est in mauris pulvinar, vel pellentesque ante malesuada. Fusce luctus, enim a consequat feugiat, lectus elit rutrum leo, sed ultricies magna erat a sapien. Aliquam ut magna lacinia, tristique massa eget, mattis turpis.</br>
+    
+    <h2 id = "procedures"> Procedures </h2>
+      Aenean sit amet est vel justo ultricies euismod. In malesuada tincidunt aliquet. Nulla ut tortor eu tellus porta malesuada at a dolor. Sed aliquam dapibus felis, et ultricies purus porta vitae. Pellentesque rhoncus urna id laoreet maximus. Cras scelerisque dui eu nibh scelerisque, non lacinia elit placerat. Proin nec tincidunt felis. Donec porttitor nulla venenatis metus ornare, eu bibendum ligula eleifend. Praesent venenatis urna a turpis mollis, a posuere nulla euismod. Aliquam vehicula enim in ultrices hendrerit. Quisque pellentesque rhoncus imperdiet. Sed laoreet gravida consectetur. In tempus neque non augue condimentum placerat. Mauris id diam nibh. Quisque sit amet dolor eget orci accumsan venenatis sed et nulla.
+
+    <h2 id = "implementation"> Implementation </h2>
+      Proin condimentum nec neque vel convallis. Nulla dictum, odio sit amet efficitur euismod, dolor sem commodo nunc, quis malesuada sem eros et mauris. Quisque rhoncus, dui id commodo scelerisque, magna urna dictum est, vitae consequat nisi ex maximus ex. Ut at risus non tellus lacinia cursus. Fusce efficitur velit vel euismod semper. Curabitur sed odio ullamcorper, fringilla ex sit amet, congue purus. In blandit a ante non lacinia. In dolor ligula, luctus vel dolor eget, egestas vulputate nunc. Pellentesque tristique gravida efficitur. Quisque tempus, ipsum id rutrum feugiat, lectus dolor lobortis augue, et auctor sapien velit interdum sapien. Morbi vitae convallis neque. Donec nec condimentum massa.
+      <br>Vestibulum arcu nisl, viverra quis dictum vel, dignissim et enim. Suspendisse quis diam nisi. Ut quis velit condimentum, egestas nunc nec, placerat orci. Praesent ac massa sit amet leo maximus mattis. Suspendisse vel luctus nulla. Aenean condimentum, arcu id elementum venenatis, sapien ante blandit mauris, et venenatis mi odio vitae ante. Fusce aliquam sapien in tortor aliquam, ut posuere nisl pharetra. Vivamus dictum magna eget felis pretium eleifend. Integer vehicula eleifend eros ut sollicitudin.</br>
+    
+        <h2 id = "algorithm 1"> Algorithm 1 </h3>
+          Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut gravida orci ut ante laoreet, a auctor ex consectetur. Quisque sit amet ornare est, quis consectetur mi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam semper lacus ante, at porttitor mauris mattis id. Sed justo mi, vestibulum non arcu et, aliquet lobortis tortor. Phasellus bibendum, elit eu efficitur imperdiet, lorem arcu malesuada urna, eu feugiat odio ante a ipsum. Nunc viverra eu justo vitae interdum. Vestibulum sed quam commodo, luctus eros sit amet, dictum orci. Vestibulum ac orci non risus posuere blandit ut a massa. Curabitur in dui fermentum, molestie elit nec, convallis leo. Cras in bibendum justo, sit amet mollis erat.
+          <br></br>
+          <img src = "Subway.jpg"/></img>
+            <p class="cap">Figure 1: Subway Station</p>
+            
+        <h2 id = "algorithm 2"> Algorithm 2 </h3>
+          Nullam et condimentum turpis. In a auctor mi. Praesent aliquet nec nisl nec pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque tristique dapibus risus non elementum. Cras elit nunc, dictum vel neque at, ornare commodo turpis. Sed egestas porta mauris, ac ullamcorper magna tristique sit amet. Etiam in nunc quam. Fusce vel leo a arcu mollis hendrerit id suscipit eros.
+          <br></br>
+          <img src = "Stadium.jpg"/></img>
+          <p class="cap">Figure 2: Stadium</p>
+            
+  <h1 id = "experimental results and discussions"> Experimental Results and Discussions </h1>
+    Vestibulum at erat sagittis lorem aliquet interdum ac vel metus. Integer faucibus ut turpis at luctus. Sed commodo lectus nibh, vitae imperdiet dolor vestibulum eget. Praesent sollicitudin dolor ut faucibus ultrices. Morbi nec egestas mauris, et varius odio. Curabitur at feugiat turpis. Etiam velit turpis, tincidunt ac nisi sit amet, vulputate sollicitudin magna. Praesent facilisis sem id quam blandit, ornare viverra justo congue. Maecenas vel ultricies tortor. Mauris feugiat interdum diam sit amet lobortis.
+    <br></br>
+      <table width = "50%">
+      <caption style="text-align:center; font-style:italic">Table 1: World table Algorithms </caption>
+      <tr><th colspan = "4">Result1</th></tr>
+      <tr><th colspan = "2">Algorithm1</th><th colspan = "2">Algorithm2</th></tr>
+      <tr><td rowspan = "2">Test 1</td><td style = "background-color:rgb(0,255, 0);">2</td><td rowspan = "2">Test 2 </td>
+      <td style = "background-color:rgb(255, 153,0)";>4</td></tr>
+      <tr><td >3</td><td>5</td></tr>
+      </table>
+
+    <br>Sed posuere velit ac felis dictum, quis efficitur sapien malesuada. Vivamus rhoncus in metus nec imperdiet. Phasellus ultricies ex vulputate, tincidunt quam sit amet, aliquam neque. Etiam iaculis volutpat mauris quis faucibus. Curabitur ac quam fermentum, gravida mauris nec, pellentesque nisi. Curabitur consectetur in lacus nec volutpat. Donec in sagittis nisl. Ut vitae rutrum magna. Praesent at lobortis erat, vitae convallis est. Sed vel vestibulum dolor. Aliquam venenatis pulvinar porta.</br>
+    Nullam varius libero id vestibulum porttitor. Nunc ut neque in dolor malesuada consequat eget sodales mauris. Etiam eu quam auctor, interdum tortor et, luctus nulla. Aenean non magna ac ipsum malesuada suscipit. Aenean elementum nulla ligula, in euismod ipsum sagittis id. Integer venenatis euismod purus a efficitur. Pellentesque non imperdiet sapien. Phasellus lacinia scelerisque nibh, tristique vehicula lorem efficitur ac. Ut tempus convallis lorem, ornare luctus turpis tempor ut. Fusce elementum molestie maximus. Etiam et arcu feugiat, elementum augue vel, pretium justo. Morbi a laoreet nisl, et sodales erat. Duis non pretium lorem. Etiam auctor porttitor dui, id mollis purus congue quis.
+
+  <h1 id = "conclusions and future work"> Conclusions and Future Work </h1>
+    Mauris pulvinar leo sit amet enim elementum ultricies. Mauris imperdiet sapien non mi vestibulum lacinia. Duis interdum odio sed felis sagittis, non fermentum nulla ultricies. Etiam feugiat nisi in malesuada faucibus. Cras gravida erat leo, eu placerat magna lobortis nec. Aliquam eu libero ultrices, iaculis ex molestie, porta felis. Aenean ultricies volutpat metus.
+    
+  <h1 id = "bibliography"> Bibliography </h1>
+    Armstrong, S., 2021. <i>Teaching non-major EECS courses. Advanced Education</i>, 6(8), pp. 100-115.
+    <br>Hazel, P., 2019. <i>New pedagogical approaches to first year EECS courses.</i> 9 ed. Calgary: Univeristy Publishing House.</br>
+     
+</body>
+</html>
+```
